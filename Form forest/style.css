@@ -1,6 +1,6 @@
 body {
     position: relative;
-    background-image: url(https://i.artfile.ru/2560x1600_502135_[www.ArtFile.ru].jpg);
+    background-image: url(https://mirpozitiva.ru/wp-content/uploads/2019/11/1480494344_kot_sneg.jpg);
     backdrop-filter: blur(0px);
     background-repeat: no-repeat;
     background-size: cover;
@@ -11,13 +11,13 @@ body {
 }
 
 fieldset {
-    border: solid 1px #68e25d;
+    border: solid 1px #5de2e2;
 }
 
 .legend {
     font-family: 'comic', sans-MS;
     letter-spacing: 4px;
-    color: #5dd252;
+    color: #52d2cc;
     font-size: 20px;
 }
 
@@ -30,7 +30,7 @@ fieldset {
 
 fieldset div, input {
     margin-top: 5px;
-    color: white;
+    color: rgba(255, 255, 255, 0.782);
     outline: none;
 }
 
@@ -52,11 +52,11 @@ textarea {
 }
 
 .bordergreen:hover {
-    border: solid 2px #2ac91c;
+    border: solid 2px #1cc6c9;
 }
 
 .bordergreen:focus, textarea:focus {
-    border: solid 2px #2ac91c;
+    border: solid 2px #1cc9bb;
 }
 
 form {
@@ -150,11 +150,11 @@ input[type='radio']:checked::after {
 }
 
 ::-webkit-input-placeholder {
-    color: white;
+    color: rgb(205, 148, 48);
 }
 
 :-ms-input-placeholder {
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 ::-moz-placeholder {
@@ -163,7 +163,7 @@ input[type='radio']:checked::after {
 }
 
 :-moz-placeholder {
-    color: white;
+    color: rgb(255, 255, 255);
     opacity: 1;
 }
 
@@ -173,7 +173,7 @@ input[type='radio']:checked::after {
     width: 34%;
     height: 30px;
     border: none;
-    color: white;
+    color: rgb(80, 229, 75);
 }
 
 select {
@@ -184,7 +184,7 @@ select {
     color: black;
     background-color: #eee;
     border-radius: 5px;
-    box-shadow: 1px 1px #ccc;
+    box-shadow: 1px 1px rgb(212, 203, 203);
 }
 
 input[id=smoking-room], input[id=different-rooms] {
