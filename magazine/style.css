@@ -8,17 +8,17 @@
 
 body {
     margin: 0px;
-    background-color: rgba(201, 247, 255, 0.877);
+    background-color: rgba(199, 236, 160, 0.877);
 }
 
 .ground-colorIN {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     margin: 0px 70px -20px;
     padding: 5px 10px 80px;
 }
 
 .popular {
-    background-color: rgb(182, 182, 182);
+    background-color: rgb(255, 255, 255);
     border-radius: 5px;
 }
 
@@ -39,7 +39,7 @@ hr {
 }
 
 .first-favorites, .last-favorites {
-    border: solid 1px black;
+    border: solid 1px rgb(175, 53, 53);
     padding: 5px;
     margin-bottom: 20px;
 }
